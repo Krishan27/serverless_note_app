@@ -1,4 +1,4 @@
-# my-first-service
+# serverless_note_app
 
 ### serverless note application in which you can create a note, edit, getbyId, getAll, update and delete.
 
